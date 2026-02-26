@@ -1,0 +1,5 @@
+https://universe.roboflow.com/search?q=rock-paper-scissors
+
+اختار اي داتا سيت نزلها  download as zip 
+
+بعدين اختار اي 20 صوره 
