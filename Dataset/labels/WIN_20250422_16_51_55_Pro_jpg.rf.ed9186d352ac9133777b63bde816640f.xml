@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>WIN_20250422_16_51_55_Pro_jpg.rf.ed9186d352ac9133777b63bde816640f.jpg</filename>
+	<path>D:\college\4rd\computer vision\images\WIN_20250422_16_51_55_Pro_jpg.rf.ed9186d352ac9133777b63bde816640f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>31</ymin>
+			<xmax>330</xmax>
+			<ymax>197</ymax>
+		</bndbox>
+	</object>
+</annotation>
